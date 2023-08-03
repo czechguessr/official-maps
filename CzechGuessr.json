@@ -1,6 +1,7 @@
 {
     "version": "1.0",
     "maps": [
-        "Liberec.json"
+        "Liberec.json",
+        "Prague.json"
     ]
 }
