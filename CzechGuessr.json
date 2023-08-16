@@ -2,6 +2,7 @@
     "version": "1.0",
     "maps": [
         "Liberec.json",
-        "Prague.json"
+        "Prague.json",
+        "CZ.json"
     ]
 }
