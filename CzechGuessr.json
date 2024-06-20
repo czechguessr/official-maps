@@ -3,6 +3,7 @@
     "maps": [
         "Liberec.json",
         "Prague.json",
+        "prague-center.json",
         "CZ.json"
     ]
 }
